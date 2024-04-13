@@ -39,7 +39,7 @@ Design requirements:
 
 
 ### Bijlagen
-Testprotocol: https://docs.google.com/document/d/1F-BpUzMJ1ygE86KyeoABrs3NoPaWYa9jnDOSjFd4CtQ/edit?usp=sharing 
-Analyse Testen: https://docs.google.com/document/d/1eZsqh_mGsqVSkwLgFUDISyCOR7UGc5VSt8z2rjgIzVg/edit?usp=sharing 
-Figma: https://www.figma.com/file/1b685Z5M96jpOfbmoFARH8/Human-Mind?type=design&node-id=0%3A1&mode=design&t=tzwZ3nUNEwL7cRxb-1 
-Miro: https://miro.com/app/board/uXjVNc1zdgc=/?share_link_id=899791927824   
+- Testprotocol: https://docs.google.com/document/d/1F-BpUzMJ1ygE86KyeoABrs3NoPaWYa9jnDOSjFd4CtQ/edit?usp=sharing 
+- Analyse Testen: https://docs.google.com/document/d/1eZsqh_mGsqVSkwLgFUDISyCOR7UGc5VSt8z2rjgIzVg/edit?usp=sharing 
+- Figma: https://www.figma.com/file/1b685Z5M96jpOfbmoFARH8/Human-Mind?type=design&node-id=0%3A1&mode=design&t=tzwZ3nUNEwL7cRxb-1 
+- Miro: https://miro.com/app/board/uXjVNc1zdgc=/?share_link_id=899791927824   
