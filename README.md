@@ -21,6 +21,14 @@ Het belangrijkste aspect van de expert revieuws is de simulatie. Hierbij wordt d
 
 De gebruikerstesten worden uitgevoerd met 4 respondenten. De respondenten hebben leeftijden tussen 10 en 16 jaar.
 Eerst wordt er een kwalificatie uitgevoerd om de algemene gegevens van de gebruiker na te gaan. Voor de gebruikerstesten wordt er ook getest via confrontatie. Zo wordt er één variant van de controller getoond, gevraagd wat hun eerste reactie is en hoe ze verwachten dat dit werkt. Hierna volgt de simulatie fase, hiervoor moeten de gebruikers een aantal scenario's uit voeren, en zo ontdekken of alles voldoende duidelijk is. Als laatste wordt er een reflectie uigevoerd met enkele open vragen, zoals welke controller is je favoriet, of welke aanpassingen zou je nog doen.
+<table border="1">
+    <tr>
+        <td>gebruikerstest</td>
+</tr>
+    <tr>
+        <td><img src="afbeeldingen deelopdracht 4/gebruikerstest.jpg" width="30%"/></td>                                             
+    </tr>
+</table>
 
 ### Resultaten
 Over het algemeen lijkt Controller 1 de favoriet te zijn van de respondenten, voornamelijk vanwege het uiterlijk, de symmetrie en de algemene lay-out van de functies. Hoewel de meeste functies over het algemeen duidelijk zijn na uitleg, zo zijn de simulaties iedere keer perfect uitgevoerd, zijn er toch enkele punten van zorg, zoals de duidelijkheid van de richtingaanwijzers en de rol-aanduiding. Indien er richtingaanwijzers worden toegevoegd aan het ontwerp, moeten er hier zeker pijltjes aan toegevoegd worden. De voorkeur voor de radar of voor de richtingaanwijzers is fifty-fifty, maar als we over het algemeen bekijken, zijn we toch gegaan voor de XXX??. Bij de rol-aanduiding geven sommige respondenten de voorkeur aan tekstuele aanduidingen boven symbolen, terwijl anderen liever symbolen hebben. Echter na het grondig bekijken van de resultaten, waren de symbolen van het lopende mannetje en het mannetje met de werper degene die er uitsprongen. 
