@@ -31,8 +31,10 @@ Eerst wordt er een kwalificatie uitgevoerd om de algemene gegevens van de gebrui
 </table>
 
 ### Resultaten
-Over het algemeen lijkt Controller 1 de favoriet te zijn van de respondenten, voornamelijk vanwege het uiterlijk, de symmetrie en de algemene lay-out van de functies. Hoewel de meeste functies over het algemeen duidelijk zijn na uitleg, zo zijn de simulaties iedere keer perfect uitgevoerd, zijn er toch enkele punten van zorg, zoals de duidelijkheid van de richtingaanwijzers en de rol-aanduiding. Indien er richtingaanwijzers worden toegevoegd aan het ontwerp, moeten er hier zeker pijltjes aan toegevoegd worden. De voorkeur voor de radar of voor de richtingaanwijzers is fifty-fifty, maar als we over het algemeen bekijken, zijn we toch gegaan voor de XXX??. Bij de rol-aanduiding geven sommige respondenten de voorkeur aan tekstuele aanduidingen boven symbolen, terwijl anderen liever symbolen hebben. Echter na het grondig bekijken van de resultaten, waren de symbolen van het lopende mannetje en het mannetje met de werper degene die er uitsprongen. 
-Ook is er een consistente voorkeur voor plaatsing van bepaalde functies, zoals het hebben van de batterij aan de zijkant en het vermijden van te drukke lay-outs. Controller 1 zijn lay-out wordt overgenomen, behalve de zijkanten. De aan/uit-knop en de pauze knop mogen samen staan aan 1 kant, en aan de andere kant de rolaanduiding met de batterijstatus. 
+Bij de expert reviews viel het vele kleurengebruik meteen op, en was zeker een goede keuze. De symbolen / figuren waren voor een groot deel duidelijk, echter ging er een voorkeur uit naar het lopend mannetje of het hert en het mannetje met de werper voor de rol-aanduiding. Daarnaast werd er ook nog de tip gegeven om bijvoorbeeld een radar te gebruiken, in plaats van de richtingsaanwijzers.
+
+Bij de gebruikerstesten was over het algemeen Controller 1 de favoriet van de respondenten, voornamelijk vanwege het uiterlijk, de symmetrie en de algemene lay-out van de functies. Hoewel de meeste functies over het algemeen duidelijk zijn na uitleg, zo zijn de simulaties iedere keer perfect uitgevoerd, zijn er toch enkele punten van zorg, zoals de duidelijkheid van de richtingaanwijzers en de rol-aanduiding. Indien er richtingaanwijzers worden toegevoegd aan het ontwerp, moeten er hier zeker pijltjes aan toegevoegd worden. De voorkeur voor de radar of voor de richtingaanwijzers is fifty-fifty. Maar wanneer we storytelling toepasten op ons concept, merkten we dat de richtingsaanwijzers niet simpel gingen zijn wanneer het spel met meerdere speler ging gespeeld worden. Hierdoor hebben we beslist voor de radar te gaan.  Bij de rol-aanduiding geven sommige respondenten de voorkeur aan tekstuele aanduidingen boven symbolen, terwijl anderen liever symbolen hebben. Echter na het grondig bekijken van de resultaten, waren de symbolen van het lopende mannetje en het mannetje met de werper degene die er uitsprongen. 
+Ook is er een consistente voorkeur voor plaatsing van bepaalde functies, zoals het hebben van de batterij aan de zijkant en het vermijden van te drukke lay-outs. Controller 1 zijn lay-out wordt overgenomen, behalve de zijkanten. De aan/uit-knop en de pauze knop mogen samen staan aan 1 kant, en aan de andere kant de rolaanduiding met de batterijstatus. Ook heeft controller 1 symmetrie in zijn lay-out, maar vanwege de grootte van de controller, zijn 2 radars helaas niet mogelijk. Hierdoor moet de symmetrie op een andere manier weergegeven worden. 
 Controller 1 werd ook gekozen door zijn leuke estethiek, dus er moet zeker wat kleur zitten in het ontwerp. Echter de controller zelf mag in een donkere kleur zijn. De kleur wit moeten we vermijden vanwege eventuele verkleuring door vuil. 
 
 
@@ -42,8 +44,8 @@ Design requirements:
 2. Symmetrische lay-out
 3. Zijkant 1 met de aan/uit-knop, zijkant 2 met de rol-aanduiding en batterijstatus
 4. De symbolen van het lopend mannetje en het mannetje met de werper voor de rol-aanduiding
-5. De richting wordt aangeduid met XXX
-6. Controller in een donkere kleur, maar wel met een esthetisch aantrekkelijk ontwerp door kleuraccenten die visueel aantrekkelijk zijn
+5. De richting wordt aangeduid met een radar
+6. Controller in een donkere kleur, maar wel met een esthetisch aantrekkelijk ontwerp passend in het thema, met kleuraccenten die visueel aantrekkelijk zijn
 
 
 ### Bijlagen
