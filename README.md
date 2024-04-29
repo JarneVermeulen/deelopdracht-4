@@ -30,7 +30,7 @@ Via een figma template werden er vijf controllers ontworpen waarbij de functies 
     </tr>
 </table>
 
-Bepaalde controllers hebben tweemaal hetzelfde onderdeel / functie, dus wanneer je de controller vasthoudt en de functie bedekt met je hand, kan je nog steeds de funtie zien aan de andere kant. Zo is er ook geen verschil voor mensen die linkshandig of rechtshandig zijn.
+Bepaalde controllers hebben tweemaal hetzelfde onderdeel / functie, dit werd bedacht voor wanneer je de controller vasthoudt in je hand. Als je een functie bedekt met je hand, kan je nog steeds de funtie zien aan de andere kant van de controller. Zo is er ook geen verschil voor mensen die linkshandig of rechtshandig zijn.
 
 ### Methoden
 De expert reviews worden uitgevoerd met 2 respondenten. De respondenten hebben leeftijd tussen 19-21 jaar.
