@@ -13,6 +13,23 @@ Via een figma template werden er vijf controllers ontworpen waarbij de functies 
 6. Scherm met de tijd, voor de tijdsduur van het spel en zodat je kan weten wanneer je info krijgt (nieuwe locatie)
 7. Scherm met de afstand van de ander speler t.o.v. jezelf
 
+<table border="1">
+    <tr>
+        <td>versie 1</td>
+        <td>versie 2</td>
+        <td>versie 3</td>
+        <td>versie 4</td>
+        <td>versie 5</td>
+    </tr>
+    <tr>
+        <td><img src="afbeeldingen deelopdracht 4/versie 1.png" width="100%"/></td>
+        <td><img src="afbeeldingen deelopdracht 4/versie 2.png" width="100%"/></td>
+        <td><img src="afbeeldingen deelopdracht 4/versie 3.png" width="100%"/></td>
+        <td><img src="afbeeldingen deelopdracht 4/versie 4.png" width="100%"/></td>
+        <td><img src="afbeeldingen deelopdracht 4/versie 5.png" width="100%"/></td>
+    </tr>
+</table>
+
 Bepaalde controllers hebben tweemaal hetzelfde onderdeel / functie, dus wanneer je de controller vasthoudt en de functie bedekt met je hand, kan je nog steeds de funtie zien aan de andere kant. Zo is er ook geen verschil voor mensen die linkshandig of rechtshandig zijn.
 
 ### Methoden
